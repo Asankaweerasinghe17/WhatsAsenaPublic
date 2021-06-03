@@ -126,7 +126,7 @@ else if (Config.WORKTYPE == 'public') {
             );
         
             await message.client.sendMessage(
-                message.jid,'● *WhatsAsena Public By Toxic Devil* ●\n\n' + CMD_HELP, MessageType.text
+                message.jid,'● *WhatsAsena Public By Teenuh X* ●\n\n' + CMD_HELP, MessageType.text
             );    
         } else {
 
